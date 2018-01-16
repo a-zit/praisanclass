@@ -6,7 +6,7 @@
 package newpackage;
 
 /**
- *
+ * edited in GitHub
  * @author Praisan.pad
  */
 public class Student {
